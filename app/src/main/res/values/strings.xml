@@ -1,3 +1,20 @@
 <resources>
+    <!--Layout-->
     <string name="app_name">Alcohol or Gasoline</string>
+    <string name="txt_info">Know the best option to fill your car</string>
+    <!--Descriptions-->
+    <string name="image_logo">image logo</string>
+    <!--Inputs and Buttons-->
+    <!--text boxes-->
+    <string name="txtBox_alcohol_price">What\'s the price of Alcohol</string>
+    <string name="txtBox_gasoline_price">What\'s the price of Gasoline</string>
+    <!--Buttons-->
+    <string name="btn_calculate">Calculate</string>
+    <!--Responses-->
+
+    <string-array name="txt_response">
+        <item>Gasoline is better</item>
+        <item>Alcohol is better</item>
+        <item>Anyway</item>
+    </string-array>
 </resources>
