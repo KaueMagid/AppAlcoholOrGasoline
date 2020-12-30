@@ -11,10 +11,9 @@
     <!--Buttons-->
     <string name="btn_calculate">Calculate</string>
     <!--Responses-->
+    <string name="txt_invalid_data">Please, enter all values correctly</string>
+    <string name="txt_response_gasoline">Gasoline is better</string>
+    <string name="txt_response_alcohol">Alcohol is better</string>
+    <string name="txt_response_anyway">Anyway</string>
 
-    <string-array name="txt_response">
-        <item>Gasoline is better</item>
-        <item>Alcohol is better</item>
-        <item>Anyway</item>
-    </string-array>
 </resources>
